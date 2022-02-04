@@ -1,6 +1,4 @@
-# 3D-Printer-Profiles
-
-# Naming Schemes
+# Profile Naming Schemes
 
 ## Printer Settins
 "Printer Name" + "Nozzle"
