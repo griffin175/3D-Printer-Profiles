@@ -1,12 +1,12 @@
 # 3D-Printer-Profiles
 
-## Naming Schemes
+# Naming Schemes
 
-# Printer Settins
+## Printer Settins
 "Printer Name" + "Nozzle"
 
-# Filament Settings
+## Filament Settings
 "Material" + "Nozzle" + "Objective"
 
-# Print Settins
+## Print Settins
 "Material" + "Nozzle" + "Layer Height" + "Objective"
